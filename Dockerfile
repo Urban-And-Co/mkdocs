@@ -5,5 +5,4 @@ RUN pip install --no-cache-dir \
   mkdocs-minify-plugin \
   mkdocs-material-extensions \
   mkdocs_pymdownx_material_extras \
-  pymdown-extensions \
-  mkdocs-mermaid2-plugin
+  pymdown-extensions
