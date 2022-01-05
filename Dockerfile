@@ -1,4 +1,4 @@
-FROM squidfunk/mkdocs-material:7.0.5
+FROM squidfunk/mkdocs-material:7.3.6
 
 RUN pip install --no-cache-dir \
   mkdocs-awesome-pages-plugin \
