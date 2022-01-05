@@ -1,8 +1,9 @@
-FROM squidfunk/mkdocs-material:7.3.6
+FROM squidfunk/mkdocs-material:8.1.4
 
 RUN pip install --no-cache-dir \
   mkdocs-awesome-pages-plugin \
   mkdocs-minify-plugin \
+  mkdocs-mermaid2-plugin \
   mkdocs-material-extensions \
   mkdocs_pymdownx_material_extras \
   pymdown-extensions

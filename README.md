@@ -1,6 +1,6 @@
 # Dokcer images for mkdocs training
 
-Version: 7.3.6
+Version: 8.1.4
 > Please note: These are the base mkdocs images with the needed plugins
 
 ## Prerequisites
